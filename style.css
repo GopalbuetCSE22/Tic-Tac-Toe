@@ -10,7 +10,7 @@
   } */
   
 body{
-    background-color: #73937E;
+    background-color: #c8e148;
     text-align: center;
 }
 
@@ -44,7 +44,7 @@ body{
     color: #540D6E;
 }
 .btn:hover{
-    background-color: #047658;
+    background-color: #895f82;
 }
 .reset{
     background: #607196;
@@ -70,7 +70,7 @@ body{
     margin-bottom: 30px;
 }
 #newgame:hover{
-    background-color: cadetblue;
+    background-color: rgb(118, 142, 143);
 }   
 .hide{
     display: none;
